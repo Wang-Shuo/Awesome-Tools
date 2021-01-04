@@ -18,3 +18,4 @@
 16. [大屏数据展示模板](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi)
 17. [Recovering passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
 18. [knowledge sharing and management tool](https://github.com/logseq/logseq)
+19. [Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)
