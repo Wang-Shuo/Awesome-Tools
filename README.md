@@ -19,3 +19,4 @@
 17. [Recovering passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
 18. [knowledge sharing and management tool](https://github.com/logseq/logseq)
 19. [Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)
+20. [Analyzing & finding a person's profile across 350+ social media websites](https://github.com/qeeqbox/social-analyzer)
